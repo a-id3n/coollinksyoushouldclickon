@@ -2,13 +2,22 @@ body{
     background: #000000;
 }
 
-@font-face {
-    font-family: 'matrix';
-    src: url(matrix.ttf); 
+h1{
+    font-family: coronette, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin-top:100px;
+    margin-left:100px;
 }
 
-h1{
-    font-family: 'matrix';
-    font-size: 100px;
-    color: #ffffff;
+a{
+    font-family: coronette, serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    margin-top:100px;
+    margin-left:100px;
+    font-size:20px;
+    text-decoration-color: white;
 }
