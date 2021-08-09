@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://media1.giphy.com/media/26tnhnKRqCevFAv1S/giphy.gif?cid=ecf05e477xrqmtk8sc7okqegpcampxe9u66dkjbhla3uvzdd&rid=giphy.gif&ct=g');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+h1{
+    font-family: coronette, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    margin-top:100px;
+    margin-left:100px;
+}
+
+a{
+    font-family: coronette, serif;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+    margin-top:100px;
+    margin-left:100px;
+    font-size:20px;
+    text-decoration-color: white;
+}
